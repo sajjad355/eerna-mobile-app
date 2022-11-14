@@ -8,16 +8,6 @@ Please check the official laravel installation guide for server requirements bef
 https://laravel.com/docs/8.x/installation#server-requirements
 ```
 
-#Clone the repository
-
-```
-git clone https://gitlab.com/ShoebKafi/cpp-fonesafe.git
-```
-
-#Switch to the repo folder
-
-```
-cd cpp-fonesafe
 ```
 
 #Install all the dependencies using composer
